@@ -32,7 +32,10 @@ Image("photoToday")
                             .cornerRadius(26)
                             .padding(.trailing)
                                             Text("Imarhia")
-                                                
+                            .font(.title2)
+                                   
+                        Text("18")
+                        
                                         
                                             Spacer()
                                                 
